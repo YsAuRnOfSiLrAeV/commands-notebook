@@ -3,8 +3,8 @@
 Desktop app built with React + Tailwind + Electron for organizing sections and commands.
 
 ### Quick install (Windows)
-- The Windows installer is in the repository root: `Commands Notebook Setup 0.0.0.exe`.
-- Run it and install the app; a desktop shortcut will be created.
+⚠️ The Windows installer is in the repository root: `windows installer/Commands Notebook Setup 0.0.0.exe`.
+Run it and install the app; a desktop shortcut will be created.
 
 ### Development (frontend only, Electron not required)
 ```bash
