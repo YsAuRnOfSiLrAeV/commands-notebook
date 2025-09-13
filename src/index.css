@@ -1,0 +1,30 @@
+@import "tailwindcss"; 
+
+body {
+  color: white;
+  background-color: #282C34;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.scrollbar-dark {
+  scrollbar-color: #4c5560 transparent;
+  scrollbar-width: thin;
+}
+.scrollbar-dark::-webkit-scrollbar {
+  width: 10px;
+}
+.scrollbar-dark::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scrollbar-dark::-webkit-scrollbar-thumb {
+  background-color: #4c5560;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+.scrollbar-dark::-webkit-scrollbar-thumb:hover {
+  background-color: #b3bbc6;
+}
