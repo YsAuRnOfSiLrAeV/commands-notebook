@@ -1,6 +1,6 @@
 ## Commands Notebook
 
-Desktop app built with React + Tailwind + Electron for organizing sections and commands.
+Desktop app built with React + Tailwind + Electron for organizing sections and commands. 
 
 ### Quick install (Windows)
 ⚠️ The Windows installer is in the repository root: `windows installer/Commands Notebook Setup 0.0.0.exe`.
