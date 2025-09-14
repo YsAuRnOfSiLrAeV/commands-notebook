@@ -2,6 +2,11 @@
   "name": "commands-notebook",
   "private": true,
   "version": "0.0.0",
+  "description": "Desktop app for organizing sections and commands",
+  "author": {
+    "name": "Yaroslav",
+    "email": "yaroslav.kalinichenko88@gmail.com"
+  },
   "type": "module",
   "main": "electron/main.cjs",
   "scripts": {
